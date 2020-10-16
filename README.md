@@ -2,9 +2,9 @@
 Homework 1 Horiseon refactory assignment
 
 
-# link placeholder 1
+## link placeholder 1
 
-# link placeholder 2
+## link placeholder 2
 
 
 
