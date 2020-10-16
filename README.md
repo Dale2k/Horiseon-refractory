@@ -2,9 +2,9 @@
 Homework 1 Horiseon refactory assignment
 
 
-# link placeholder 1
+# Deployed Application URL: https://dale2k.github.io/hw1-refractory/
 
-# link placeholder 2
+# Gitub Despository URL https://github.com/Dale2k/hw1-refractory
 
 
 
