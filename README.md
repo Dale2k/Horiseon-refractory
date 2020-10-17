@@ -2,7 +2,7 @@
 Homework 1 Horiseon refactory assignment
 
 
-# deployed applicatiom https://dale2k.github.io/hw1-refractory/
+# deployed application https://dale2k.github.io/hw1-refractory/
 
 # github repository https://github.com/Dale2k/hw1-refractory
 
