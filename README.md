@@ -4,7 +4,7 @@ Homework 1 Horiseon refactory assignment
 
 # deployed applicatiom https://dale2k.github.io/hw1-refractory/
 
-# link placeholder 2
+# github repository https://github.com/Dale2k/hw1-refractory
 
 
 
@@ -36,7 +36,7 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
+![code refactor demo](./images/01-html-css-git-homework-demo.png)
 
 
 ## Grading Requirements
