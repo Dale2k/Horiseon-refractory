@@ -1,5 +1,5 @@
-# hw1-refractory
-Homework 1 Horiseon refactory assignment
+# Horiseon Refractory
+
 
 
 # deployed application https://dale2k.github.io/hw1-refractory/
